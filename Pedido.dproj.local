@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/07/06 20:53:02.000.250,=C:\Users\Pc-Master\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/07/12 11:28:44.000.852,=C:\Users\Pc-Master\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/07/12 11:28:57.000.489,C:\Users\Pc-Master\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Pedido\U_Pedido.pas</Transaction>
+    <Transaction>2021/07/12 11:28:57.000.489,C:\Users\Pc-Master\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Pedido\U_Pedido.dfm</Transaction>
+    <Transaction>2021/07/12 11:29:01.000.272,C:\Users\Pc-Master\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Pedido\Pedido.dproj</Transaction>
+    <Transaction>2021/07/12 11:43:03.000.237,=C:\Pedido\Unit1.pas</Transaction>
+    <Transaction>2021/07/12 11:43:13.000.922,C:\Pedido\Unit1.pas=C:\Pedido\U_DM.pas</Transaction>
+    <Transaction>2021/07/12 11:43:13.000.922,C:\Pedido\Unit1.dfm=C:\Pedido\U_DM.dfm</Transaction>
+    <Transaction>2021/07/12 13:21:39.000.888,=C:\Pedido\Classe\Cliente.pas</Transaction>
+    <Transaction>2021/07/12 14:03:35.000.269,=C:\Pedido\Classe\Produto.pas</Transaction>
+  </Transactions>
+</BorlandProject>
